@@ -2,11 +2,11 @@
 
 ## **TODO LIST**
 - [x] **Manual Controller :hammer_and_wrench:**
-- [ ] **PID Controller :robot:**
-- - [ ] Read GyroScope Values and Convert them into Roll, Pitch & Yaw angles
-- - [ ] Make a PID Control-Loop Model - Scipy
-- - [ ] Implement the PID Model to the PID Controller
-- - [ ] ...
+- [x] **PID Controller :robot:**
+- - [x] Read GyroScope Values and Convert them into Roll, Pitch & Yaw angles
+- - [x] Make a PID Control-Loop Model - Scipy
+- - [x] Implement the PID Model to the PID Controller
+- - [x] ...
 
 ## ***Manual Controller :hammer_and_wrench:***
 ### **How Does it Work ?**
